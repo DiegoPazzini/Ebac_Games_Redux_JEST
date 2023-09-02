@@ -6,7 +6,7 @@ E por último foi utilizado foi o <strong>Mock service</strong> que é uma técn
 
 <h1>Visualização Online</h1>
 A landing page do projeto está disponível para visualização na Vercel. Você pode acessá-la através do seguinte link:
-Página com informações do Github: https://ebac-games-redux-jest.vercel.app/
+https://ebac-games-redux-jest.vercel.app/
 
 ## Skills utilizadas:
 <div style="display: inline_block"><br>
